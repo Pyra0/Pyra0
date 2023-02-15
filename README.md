@@ -1,11 +1,11 @@
-- Hi, I’m Pyra0
-- I’m a Java minecraft plugin developer with a year of experience
-- I’m currently learning Skript
-- I’m looking to work on larger projects
-- How to reach me: Pyra0#1599 (discord)
+Java Developer ~1.5 years
+Skript ~1 year
+currently learning web development and design
+Discord: Pyra0#1599 (discord)
+Available for commissions.
 
-Current developer positions:
-Developer - Inazuma Pit - 20/06/2022 - PRESENT
+Current positions:
+Developer - DefuseMC - 2nd Feb. 2023 to PRESENT
 
 <!---
 Pyra0/Pyra0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
